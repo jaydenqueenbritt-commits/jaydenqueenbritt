@@ -1,1 +1,1 @@
-# :emoji_wave Hello, I'm Jayden
+# :wave Hello, I'm Jayden
