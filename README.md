@@ -16,6 +16,5 @@ Through hands-on-labs I improve my skills in: <br>
 </ul>
 
 # 🎓Education & Certifications 
-
-<h1>Bachleors Degree (In progress)</h1> <br>
+Bachleors Degree (In progress) <br>
 Computer Science: Cybersecurity <br>
