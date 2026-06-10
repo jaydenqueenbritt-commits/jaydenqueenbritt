@@ -14,6 +14,8 @@ Through hands-on-labs I improve my skills in: <br>
   <li>SIEM log analysis</li>
   <li>Network Monitoring</li>
 </ul>
+
 # 🎓Education & Certifications 
+
 <h1>Bachleors Degree (In progress)</h1> <br>
 Computer Science: Cybersecurity <br>
