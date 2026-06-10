@@ -18,7 +18,8 @@ Through hands-on-labs I improve my skills in: <br>
 # 🎓Education & Certifications 
 **Bachleors Degree** (In progress) <br>
 Computer Science: Cybersecurity <br>
-**Certifications** <br>
+
+**Certifications** 
 <ul>
   <li>CompTIA Network+</li>
   <li>Data Center Virtualization (DCV-VCTA)</li>
