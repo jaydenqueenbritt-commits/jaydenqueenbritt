@@ -5,7 +5,7 @@
 💻 Github Focus: Cybersecurity & Cisco Homelabs
 # 🚀 About Me
 I am a cybersecurity student focused on defensive security and networking. <br>
-To develop real world skills, I design and operate homelabs and networking archetecture that simulate networking enviornments, where I practice detecting and defending cyber attacks. <br>
+To develop real world skills, I design and operate homelabs and networking archetecture that simulate networking enviornments, where I practice detecting and defending cyber attacks. <br> <br>
 Through hands-on-labs I improve my skills in: <br>
 <ul>
   <li>Network Implementation</li>
