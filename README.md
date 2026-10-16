@@ -3,12 +3,12 @@
 
 ### Computer Science and Cybersecurity Student
 
-I'm a student building practical skills in cybersecurity fundamentals, networking, troubleshooting, and cloud fundamentals. I use this GitHub to document what I learn, share projects, and demonstrate my problem-solving skills. 
+I'm a college student building practical skills in cybersecurity fundamentals, networking, troubleshooting, and cloud fundamentals. I use this GitHub to document what I learn, share projects, and demonstrate my problem-solving skills. 
 
 ---
 
 ## 🎯 Current Focus
-- Cloud Engineering
+- Cloud Engineering/Fundamentals
 - IT support and technical troubleshooting
 - Networking fundamentals
 - Cybersecurity and defensive security
