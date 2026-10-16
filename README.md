@@ -1,5 +1,5 @@
  
-# Jayden Queen Britt
+# Jayden Queen-Britt
 
 ### Cybersecurity & IT Student 🛡️
 
@@ -37,7 +37,9 @@ I'm building projects to apply my knowledge and demonstrate my skills.
 
 ## 📫 Connect With Me
 - **GitHub:** [jaydenqueenbritt-commits](https://github.com/jaydenqueenbritt-commits)
+- **Linkedin**
+- **Email**
 
 ---
 
-⭐ *Thanks for visiting my profile! I'm always learning and working to improve my technical skills.*
+
