@@ -1,34 +1,43 @@
-# 👋 Hello, I'm Jayden
-🔒 **Cybersecurity Student** <br>
-🥼 Real-World Cybersecurity and Networking Labs <br>
-📍 DC/Maryland, USA <br>
-💻 Github Focus: Cybersecurity & Cisco Homelabs
-# 🚀 About Me
-I am a **cybersecurity student focused on defensive security and networking.** <br>
-To develop real world skills, I design and operate homelabs and networking archetecture that **simulate enterprise enviornments**, where I practice detecting and defending cyber attacks. <br> <br>
-Through hands-on-labs I improve my skills in: <br>
-<ul>
-  <li>Network Implementation</li>
-  <li>Threat Detection</li>
-  <li>Network Security</li>
-  <li>SIEM log analysis</li>
-  <li>Network Monitoring</li>
-</ul>
+ 
+# Jayden Queen Britt
 
-# 🎓Education & Certifications 
-**Bachleors Degree** (In progress) <br>
-Computer Science: Cybersecurity <br>
+### Cybersecurity & IT Student 🛡️
 
-**Certifications** 
-<ul>
-  <li>CompTIA Network+</li>
-  <li>Data Center Virtualization (DCV-VCTA)</li>
-</ul>
+I'm a student building practical skills in information technology, networking, troubleshooting, and cybersecurity fundamentals. I use this GitHub to document what I learn, share projects, and demonstrate my problem-solving skills.
 
-# 🔬Featured Cybersecruity Projects 
+---
 
+## 🎯 Current Focus
+- 💻 IT support and technical troubleshooting
+- 🌐 Networking fundamentals
+- 🔐 Cybersecurity and defensive security
+- 📝 Technical documentation and problem-solving
 
-# Skills Demonstrated 
+## 🛠️ Skills I'm Developing
+- Operating Systems: Windows and Linux fundamentals
+- Networking: IP addresses, DNS, DHCP, and network troubleshooting
+- Cybersecurity: Security awareness and defensive practices
+- Programming: Python fundamentals
+- Documentation: Writing clear technical guides
 
+## 📂 Projects
+I'm building projects to apply my knowledge and demonstrate my skills.
 
-# 🧠 Skills I'm Developing
+- **IT Troubleshooting Guide** — Documenting common technical issues and solutions.
+- **Networking Fundamentals Lab** — Learning and explaining core networking concepts.
+- **Cybersecurity Learning Journal** — Recording cybersecurity concepts and defensive security practices.
+
+<!-- Replace these descriptions with links to your actual project repositories when they're ready. -->
+
+## 📚 Learning Goals
+- Develop hands-on IT support skills.
+- Strengthen my understanding of networking.
+- Practice cybersecurity in safe, authorized lab environments.
+- Build projects that demonstrate my technical knowledge.
+
+## 📫 Connect With Me
+- **GitHub:** [jaydenqueenbritt-commits](https://github.com/jaydenqueenbritt-commits)
+
+---
+
+⭐ *Thanks for visiting my profile! I'm always learning and working to improve my technical skills.*
