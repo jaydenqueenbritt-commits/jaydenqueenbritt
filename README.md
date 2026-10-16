@@ -37,7 +37,7 @@ I'm building projects to apply my knowledge and demonstrate my skills.
 
 ## 📫 Connect With Me
 - **GitHub:** [jaydenqueenbritt-commits](https://github.com/jaydenqueenbritt-commits)
-- **Linkedin**
+- **Linkedin** www.linkedin.com/in/jayden-queen-britt-5280082b1
 - **Email**
 
 ---
