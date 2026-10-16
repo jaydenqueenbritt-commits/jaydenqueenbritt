@@ -1,7 +1,7 @@
  
 # Jayden Queen-Britt
 
-### Computer Science and Cybersecurity Student
+### Computer Science: Cybersecurity Student
 
 I'm a college student building practical skills in cybersecurity fundamentals, networking, troubleshooting, and cloud fundamentals. I use this GitHub to document what I learn, share projects, and demonstrate my problem-solving skills. 
 
